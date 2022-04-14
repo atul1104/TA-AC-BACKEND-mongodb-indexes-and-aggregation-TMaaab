@@ -1,4 +1,4 @@
-writeCode
+writeCode.
 
 Insert the data present in users.json into local mongodb database using `mongoimport` into a database called sample and collection named as users.
 
